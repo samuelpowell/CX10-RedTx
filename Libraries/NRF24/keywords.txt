@@ -1,0 +1,56 @@
+#######################################
+# Syntax Coloring Map For NRF24
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+NRF24    KEYWORD1
+NRF24Datagram    KEYWORD1
+NRF24ReliableDatgram    KEYWORD1
+NRF24Router    KEYWORD1
+NRF24MEsh    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init	KEYWORD2
+spiRead		KEYWORD2
+spiWrite	KEYWORD2
+spiBurstRead	KEYWORD2
+spiBurstWrite	KEYWORD2
+spiReadRegister		KEYWORD2
+spiWriteRegister	KEYWORD2
+spiBurstReadRegister	KEYWORD2
+spiBurstWriteRegister	KEYWORD2
+statusRead	KEYWORD2
+send	KEYWORD2
+recv	KEYWORD2
+flushTx	KEYWORD2
+flushRx	KEYWORD2
+setChannel	KEYWORD2
+setAddressLength	KEYWORD2
+setThisAddress	KEYWORD2
+setTransmitAddress	KEYWORD2
+setPayloadSize	KEYWORD2
+setRF	KEYWORD2
+powerDown	KEYWORD2
+powerUpRx	KEYWORD2
+powerUpTx	KEYWORD2
+waitPacketSent	KEYWORD2
+isSending	KEYWORD2
+printRegisters	KEYWORD2
+available	KEYWORD2
+waitAvailable	KEYWORD2
+waitAvailableTimeout	KEYWORD2
+
+######################################
+# Instances (KEYWORD2)
+#######################################
+
+nrf24 KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+######################################

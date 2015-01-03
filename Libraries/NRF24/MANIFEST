@@ -1,0 +1,16 @@
+NRF24/doc/*
+NRF24/project.cfg
+NRF24/LICENSE
+NRF24/Makefile
+NRF24/NRF24.cpp
+NRF24/NRF24.h
+NRF24/MANIFEST
+NRF24/keywords.txt
+NRF24/examples/nrf24_audio_rx/nrf24_audio_rx.pde
+NRF24/examples/nrf24_ping_client/nrf24_ping_client.pde
+NRF24/examples/nrf24_test/nrf24_test.pde
+NRF24/examples/nrf24_specan/nrf24_specan.pde
+NRF24/examples/nrf24_ping_server/nrf24_ping_server.pde
+NRF24/examples/nrf24_audio_tx/nrf24_audio_tx.pde
+NRF24/examples/crazyflie/crazyflie.ino
+NRF24/examples/crazyflie_client/crazyflie_client.ino

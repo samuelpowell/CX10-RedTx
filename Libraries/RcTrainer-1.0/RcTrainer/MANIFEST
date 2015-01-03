@@ -1,0 +1,8 @@
+RcTrainer/MANIFEST
+RcTrainer/Makefile
+RcTrainer/project.cfg
+RcTrainer/LICENSE
+RcTrainer/RcTrainer.h
+RcTrainer/RcTrainer.cpp
+RcTrainer/doc
+RcTrainer/examples/dx6i/dx6i.ino
